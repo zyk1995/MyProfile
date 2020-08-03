@@ -1,0 +1,99 @@
+{
+  "selectedTemplate": 3,
+  "headings": {
+    "education": "",
+    "projects": ""
+  },
+  "basics": {
+    "email": "1251134350@qq.com",
+    "phone": "15610577229",
+    "name": "张祎堃"
+  },
+  "education": [
+    {
+      "institution": "聊城大学",
+      "location": "聊城",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "3.2"
+    }
+  ],
+  "work": [
+    {
+      "location": "青岛",
+      "position": "",
+      "website": "",
+      "endDate": "",
+      "highlights": [
+        "负责工单管理系统服务端的开发",
+        "新功能技术方案的制订以及工作量的评估和迭代计划的制订",
+        "配合运营及时解决线上用户反馈的问题"
+      ],
+      "company": "北京柯莱特科技有限公司",
+      "startDate": "2018年12月"
+    },
+    {
+      "highlights": [
+        "Medy医疗新闻网站活动与广告模块的二次开发",
+        "编写测试用例文档并对Medy医疗新闻网站 新功能进行测试 ",
+        "湘南地铁充值机充值模块二次开发"
+      ],
+      "position": "软件开发工程师（对日方向）",
+      "company": "青岛比特微尔软件开发有限公司",
+      "location": "青岛，日本",
+      "startDate": "2017年5月",
+      "endDate": "2018年5月"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "",
+        "Mybatis",
+        "Redis",
+        "rocketmq",
+        "JVM",
+        "Mysql调优"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "",
+        "Redis",
+        "Mybatis"
+      ],
+      "name": "房产报修管理",
+      "description": "    为房产部门,房产租户，行政部门，海外员工等提供房屋问题报修，房屋巡检问题报修的报修平台。此系统提供了报修人，巡检员工上传报修问题，包含：报修位置，问题分类，问题描述，报修图片等，可以查看自己的报修记录，报修处理状态。房产，行政楼宇负责人可以对自己负责的工单进行处理，转派，调整问题分类，记录处理结果"
+    },
+    {
+      "keywords": [
+        "",
+        "Redis",
+        "Mybatis",
+        "RocketMq"
+      ],
+      "name": "工单管理平台",
+      "description": "由房产报修管理项目演变而来，不再局限于处理房产行政部门的工单，将业务范围扩大到财务部门，以及各值班号反馈的工单。实现对公司各部门反馈的服务需求/问题进行线上管理。在原房产报修管理项目的基础上，新增了问题分类管理，权限管理，sla配置，运维工单管理模块。"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2017年，2018年",
+      "awarder": "聊城大学",
+      "title": "二等奖学金两次，单项奖一次",
+      "summary": "期末总成绩在班级排名前5获二等奖学金，单科成绩第一获单项奖"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
